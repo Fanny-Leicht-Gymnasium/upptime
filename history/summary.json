@@ -4,9 +4,9 @@
     "url": "https://www.fanny-leicht.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.fanny-leicht.de.ico",
     "slug": "fanny-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 819,
     "timeMonth": 858,
     "timeYear": 843,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-21": 0
+    }
   }
 ]
